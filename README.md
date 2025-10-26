@@ -1,4 +1,4 @@
-name's anubhav, software engineer (soon), live [here](https://gitlab.com/junevm).
+name's anubhav, programmer, software engineer (soon), live [here](https://gitlab.com/junevm).
 
 ## **skills**
 golang, python, c++, c, java, php, docker, kubernetes, git, html, css, javascript, golang, react.js, next.js, postgresql, mysql, 
