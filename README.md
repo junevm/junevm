@@ -1,16 +1,19 @@
-## Hi there 👋
+anubhav mahur, software engineer (soon).
 
-<!--
-**junevm/junevm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **skills**
+golang, python, c++, c, java, php, docker, kubernetes, git, html, css, javascript, golang, react.js, next.js, postgresql, mysql, 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **projects**
+
+*notable*
+1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): game i created as a high schooler 
+2. [avtoolz.com](https://avtoolz.com): second most ambitious thing
+
+*others*
+1. [pollution free zone finder](https://gitlab.com/junevm/pollution-free-zone-finder): hackathon project 
+2. [library management system](https://gitlab.com/junevm/library-hub): university project 
+3. [water availability](https://gitlab.com/junevm/water-availability): university project 
+4. [aucto](https://gitlab.com/junevm/aucto): university project 
+5. [msi-fan-control](https://gitlab.com/junevm/MSIFanControl): utility to control the speed of my laptop
+6. [gdcut](https://gitlab.com/junevm/gdCut): google drive direct download link generator
