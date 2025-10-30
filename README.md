@@ -6,9 +6,9 @@ golang, python, c++, c, java, php, docker, kubernetes, git, html, css, javascrip
 
 ## **projects**
 
-*beloved*
+*personal favourite*
 1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): game i created as a high schooler 
-2. [avtoolz.com](https://avtoolz.com): second most ambitious thing
+2. [avtoolz.com](https://avtoolz.com): browser first tools
 
 *others*
 1. [pollution free zone finder](https://gitlab.com/junevm/pollution-free-zone-finder): hackathon project 
