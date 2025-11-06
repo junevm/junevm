@@ -1,7 +1,7 @@
 name's anubhav, programmer, [gitlab](https://gitlab.com/junevm).
 
 ## **arsenal**
-golang, python, c++, c, java, php, docker, kubernetes, git, html, css, javascript, golang, react.js, next.js, postgresql, mysql, 
+golang, python, c++, c, java, php, docker, kubernetes, git, golang, next.js, postgresql, mysql, 
 
 
 ## **projects**
