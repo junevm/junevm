@@ -7,7 +7,7 @@ golang, python, c++, c, java, php, docker, kubernetes, git, html, css, javascrip
 ## **projects**
 
 *personal favourite*
-1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): game i created as a high schooler 
+1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): game i created in high school 
 2. [avtoolz.com](https://avtoolz.com): browser first tools
 
 *others*
