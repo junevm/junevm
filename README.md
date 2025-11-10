@@ -1,4 +1,4 @@
-name's anubhav, programmer, [gitlab](https://gitlab.com/junevm).
+anubhav, programmer, [gitlab](https://gitlab.com/junevm).
 
 ## **arsenal**
 golang, python, c++, c, java, php, docker, kubernetes, git, golang, next.js, postgresql, mysql, 
