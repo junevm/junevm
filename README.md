@@ -1,19 +1,12 @@
-anubhav, programmer, [gitlab](https://gitlab.com/junevm).
+programmer. on [gitlab](https://gitlab.com/junevm) and [github](https://github.com/junevm)
 
 ## **arsenal**
-golang, python, c++, c, java, php, docker, kubernetes, git, next.js, postgresql, mysql, node.js, react.js, javascript, typescript, dart, flutter, linux.
+golang, python, c++, c, java, php, docker, kubernetes, git, next.js, sql, node.js, react.js, javascript, typescript, dart, flutter, linux.
 
 
 ## **projects**
-*personal favourite*
-1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): game i created in high school 
-2. [avtoolz.com](https://avtoolz.com): browser first tools
-
-*others*
-1. [pollution free zone finder](https://gitlab.com/junevm/pollution-free-zone-finder): hackathon project 
-2. [library management system](https://gitlab.com/junevm/library-hub): university project 
-3. [water availability](https://gitlab.com/junevm/water-availability): university project 
-4. [aucto](https://gitlab.com/junevm/aucto): university project 
-5. [msi-fan-control](https://gitlab.com/junevm/MSIFanControl): utility to control the speed of my laptop
-6. [gdcut](https://gitlab.com/junevm/gdCut): google drive direct download link generator
+1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): a small game i created in high school 
+2. [avtoolz.com](https://avtoolz.com): browser first only utility toolbox 
+5. [msi-fan-control](https://gitlab.com/junevm/MSIFanControl): TUI to control fan speed of my MSI
 7. [ghostscript-wasm](https://gitlab.com/junevm/ghostscript-wasm): webassembly port of ghostscript
+[and many more...](https://gitlab.com/users/junevm/projects)
