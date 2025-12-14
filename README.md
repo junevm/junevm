@@ -1,4 +1,4 @@
-programmer, on [gitlab](https://gitlab.com/junevm) and [github](https://github.com/junevm)
+programmer, [gitlab](https://gitlab.com/junevm) and [github](https://github.com/junevm)
 
 ## **arsenal**
 golang, python, c++, c, java, php, docker, kubernetes, git, next.js, sql, node.js, react.js, javascript, typescript, dart, flutter, linux.
