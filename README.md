@@ -1,6 +1,4 @@
-programmer, [gitlab](https://gitlab.com/junevm) and [github](https://github.com/junevm).<br>
-golang, python, c++, c, java, php, docker, kubernetes, git, next.js, sql, node.js, react.js, javascript, typescript, dart, flutter, linux.
-
+programmer, [gitlab](https://gitlab.com/junevm) and [github](https://github.com/junevm).
 
 **projects**:
 1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): little game I created high school
