@@ -1,4 +1,4 @@
-programmer, [gitlab](https://gitlab.com/junevm) and [github](https://github.com/junevm).
+programmer.
 
 **projects**:
 1. [ball-o-mania](https://gitlab.com/junevm/Ball-O-Mania): little game I created high school
