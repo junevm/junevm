@@ -1,6 +1,6 @@
-programmer.
+programmer 🐉
 
-**projects**:
+projects:
 1. [avtoolz.com](https://avtoolz.com): browser first utility toolbox
 2. [cdns](https://github.com/junevm/cdns): change DNS servers effortlessly via terminal
 1. [msi-fan-control](https://github.com/junevm/msifancontrol): TUI to control the fans of my laptop
