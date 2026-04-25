@@ -5,16 +5,16 @@
 
 [blue pill](https://youtube.com/playlist?list=PL4Xo4fzOzHg3lFS59PIGkYviOV6VdyB8w) • [red pill](https://youtube.com/playlist?list=PL4Xo4fzOzHg2SEwTzVzIaVzMGLTEzbxC5)
 
+fly never come down
+
 </div>
 
 
 **brainchildren**:
-- [avtoolz](https://avtoolz.com): browser first utility toolbox
-- [cdns](https://github.com/junevm/cdns): change DNS servers effortlessly via terminal
-- [msi-fan-control](https://github.com/junevm/msifancontrol): TUI to control the fans of my laptop
-- [ghostscript-wasm](https://github.com/junevm/ghostscript-wasm): ghostscript ported to webassembly
-- [boxflow-obsidian](https://github.com/junevm/boxflow-obsidian): visual progress tracker plugin for Obsidian
-- [ball-o-mania](https://github.com/junevm/ball-o-mania): little game I created high school
-- [splathash](https://github.com/junevm/splathash): 16-byte, splat-based image placeholders for any image
+- [avtoolz](https://avtoolz.com): client-side toolbox of daily use tools 
+- [cdns](https://github.com/junevm/cdns): tui to change dns on linux effortlessly 
+- [msi-fan-control](https://github.com/junevm/msifancontrol): tui to control my msi fans
+- [splathash](https://github.com/junevm/splathash): 16-byte splat-based image placeholders for any image
+- [ball-o-mania](https://github.com/junevm/ball-o-mania): my entrypoint to programming world
 
-[and many more...](https://github.com/junevm?tab=repositories)
+[and many more...](https://gitlab.com/junevm?tab=repositories)
