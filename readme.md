@@ -1,7 +1,13 @@
-programmer 🐉
+<center>
+
+## programmer 🐉
+
 
 
 [blue pill](https://youtube.com/playlist?list=PL4Xo4fzOzHg3lFS59PIGkYviOV6VdyB8w) | [red pill](https://youtube.com/playlist?list=PL4Xo4fzOzHg2SEwTzVzIaVzMGLTEzbxC5)
+
+## programmer 
+</center>
 
 my brainchildren:
 - [avtoolz](https://avtoolz.com): browser first utility toolbox
