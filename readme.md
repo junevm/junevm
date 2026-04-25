@@ -15,4 +15,4 @@
 - [splathash](https://github.com/junevm/splathash): 16-byte splat-based image placeholders for any image
 - [ball-o-mania](https://github.com/junevm/ball-o-mania): game i created as a youngling 
 
-[and many more...](https://gitlab.com/junevm?tab=repositories)
+[and many more...](https://gitlab.com/junevm/junevm/projects)
