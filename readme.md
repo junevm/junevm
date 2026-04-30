@@ -9,7 +9,7 @@
 
 
 - [avtoolz](https://avtoolz.com): browser based toolbox containing daily use tools 
-- [cdns](https://github.com/junevm/cdns): tui to change dns on linux effortlessly 
-- [msi-fan-control](https://github.com/junevm/msifancontrol): tui to control my msi fans
-- [splathash](https://github.com/junevm/splathash): 16-byte splat-based image placeholders for any image
+- [cdns](https://gitlab.com/junevm/cdns): tui to change dns on linux effortlessly 
+- [msi-fan-control](https://gitlab.com/junevm/msifancontrol): tui to control my msi fans
+- [splathash](https://gitlab.com/junevm/splathash): 16-byte splat-based image placeholders for any image
 - [ball-o-mania](https://gitlab.com/junevm/ball-o-mania): a little game i created in high school
