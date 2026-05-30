@@ -8,7 +8,7 @@
 </div>
 
 
-- [avtoolz](https://avtoolz.com): browser based toolbox containing daily use tools 
+- [avtoolz](https://github.com/junevm/avtoolz): browser based toolbox containing daily use tools 
 - [cdns](https://github.com/junevm/cdns): tui to change dns on linux effortlessly 
 - [msi-fan-control](https://github.com/junevm/msifancontrol): tui to control fans of msi laptops
 - [splathash](https://github.com/junevm/splathash): 16 bytes fixed size image placeholder, an alternative to blurhash and thumbhash
