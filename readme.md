@@ -12,4 +12,4 @@
 - [cdns](https://github.com/junevm/cdns): tui to change dns on linux effortlessly 
 - [msi-fan-control](https://github.com/junevm/msifancontrol): tui to control fans of msi laptops
 - [splathash](https://github.com/junevm/splathash): 16 bytes fixed size image placeholder, an alternative to blurhash and thumbhash
-- [ball-o-mania](https://github.com/junevm/ball-o-mania): a little game i created in high school
+- [ball-o-mania](https://gitlab.com/junevm/ball-o-mania): a little game i created in high school
